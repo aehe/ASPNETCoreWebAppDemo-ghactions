@@ -1,0 +1,7 @@
+C:\tmpwork\ASPNETCoreWebAppDemo\bin\Release\net6.0\publish\ASPNETCoreWebAppDemo.exe
+C:\tmpwork\ASPNETCoreWebAppDemo\bin\Release\net6.0\publish\appsettings.Development.json
+C:\tmpwork\ASPNETCoreWebAppDemo\bin\Release\net6.0\publish\appsettings.json
+C:\tmpwork\ASPNETCoreWebAppDemo\bin\Release\net6.0\publish\ASPNETCoreWebAppDemo.dll
+C:\tmpwork\ASPNETCoreWebAppDemo\bin\Release\net6.0\publish\ASPNETCoreWebAppDemo.deps.json
+C:\tmpwork\ASPNETCoreWebAppDemo\bin\Release\net6.0\publish\ASPNETCoreWebAppDemo.runtimeconfig.json
+C:\tmpwork\ASPNETCoreWebAppDemo\bin\Release\net6.0\publish\ASPNETCoreWebAppDemo.pdb
