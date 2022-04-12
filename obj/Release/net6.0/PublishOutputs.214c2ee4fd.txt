@@ -1,0 +1,7 @@
+/workspaces/ASPNETCoreWebAppDemo-ghactions/bin/Release/net6.0/publish/ASPNETCoreWebAppDemo
+/workspaces/ASPNETCoreWebAppDemo-ghactions/bin/Release/net6.0/publish/appsettings.Development.json
+/workspaces/ASPNETCoreWebAppDemo-ghactions/bin/Release/net6.0/publish/appsettings.json
+/workspaces/ASPNETCoreWebAppDemo-ghactions/bin/Release/net6.0/publish/ASPNETCoreWebAppDemo.dll
+/workspaces/ASPNETCoreWebAppDemo-ghactions/bin/Release/net6.0/publish/ASPNETCoreWebAppDemo.deps.json
+/workspaces/ASPNETCoreWebAppDemo-ghactions/bin/Release/net6.0/publish/ASPNETCoreWebAppDemo.runtimeconfig.json
+/workspaces/ASPNETCoreWebAppDemo-ghactions/bin/Release/net6.0/publish/ASPNETCoreWebAppDemo.pdb

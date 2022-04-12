@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bYkg7ncQWZm/RD11XEs2Lih+l+tUtXQ2YX2WaTa4C45SFR7eooMLTVVU/VyhWeqRfmuC4rUEcvTDNiqy2T3llA==",
+  "dgSpecHash": "2n6QwZllLLBcWnu5vBckE0yAxzrGjdYmdw/DOTFMeZSGTFyTbjNenNR/R7GSR4FAmGCtnDkGy02fcIwMENoD/Q==",
   "success": true,
-  "projectFilePath": "C:\\tmpwork\\ASPNETCoreWebAppDemo\\ASPNETCoreWebAppDemo.csproj",
+  "projectFilePath": "/workspaces/ASPNETCoreWebAppDemo-ghactions/ASPNETCoreWebAppDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
